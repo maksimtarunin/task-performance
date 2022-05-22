@@ -11,6 +11,7 @@
 }
 
 .stickyHeader {
+    will-change: transform;
     position: sticky;
     top: 0;
     background-color: #000;
